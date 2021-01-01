@@ -1,1 +1,1 @@
-# deployment-pg-k8s
+# Despliegue de base de datos Postgres en Kubernetes
